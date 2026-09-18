@@ -1,4 +1,10 @@
+<div align="center">
+
 # MAPPINGS Family
 
-Welcome to the MAPPINGS Family organization. This organization manages the MAPPINGS code and its variants.
+**Welcome to the MAPPINGS Family organization.**
+
+This organization manages the **MAPPINGS code** and its variants.
+
+</div>
 
